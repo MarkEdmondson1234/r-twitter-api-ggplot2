@@ -5,7 +5,7 @@
 ###
 ### 1. Register your Twitter app here https://apps.twitter.com/app/new
 ### 2. Get your api_key and api_secret, fill in below
-### 3. Source this file, copy the Tiwtter Authentication URL 
+### 3. Source this file, copy the Twitter Authentication URL 
 ### 4. Input the PIN every session you need access to Twitter API
 
 require(twitteR)

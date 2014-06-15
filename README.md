@@ -6,7 +6,7 @@ Demo plotting Twitter API data in R.  Plots using library(ggplot2), Twitter impo
 ### Get Data using twitteR
 1. Register your Twitter app here https://apps.twitter.com/app/new
 2. Get your api_key and api_secret, fill in keys in auth.r
-3. Source/Run auth.r, then copy the Tiwtter Authentication URL it gives you into your browser
+3. Source/Run auth.r, then copy the Twitter Authentication URL it gives you into your browser
 4. The URL will disply a PIN.  Input this displayed PIN into the R terminal at the prompt
 5. Repeat every R session you need access to Twitter API (this probably could be improved)
 
